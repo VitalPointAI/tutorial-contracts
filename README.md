@@ -81,6 +81,6 @@ near login
 Deploy the contract:
 
 ```bash
-near deploy --wasmFile res/count.wasm --accountId YOUR_ACCOUNT_NAME
+near deploy --wasmFile res/counter.wasm --accountId YOUR_ACCOUNT_NAME
 ```
 
