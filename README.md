@@ -84,3 +84,5 @@ Deploy the contract:
 near deploy --wasmFile res/counter.wasm --accountId YOUR_ACCOUNT_NAME
 ```
 
+
+
